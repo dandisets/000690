@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000690
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.4/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:EmbargoedAccess
@@ -22,9 +23,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 60266938821
-  numberOfFiles: 33
-  numberOfSubjects: 7
+  numberOfBytes: 85054960456
+  numberOfFiles: 45
+  numberOfSubjects: 9
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -44,28 +45,36 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2023-10-24T16:52:41.591223+00:00'
-datePublished: '2024-01-02T11:07:43.841450+00:00'
+datePublished: '2024-02-02T10:15:05.055430+00:00'
 description: Vision2Hippocampus
 doi: 10.80507/dandi.123456/0.123456.1234
+ethicsApproval: []
 id: DANDI:000690/draft
 identifier: DANDI:000690
+keywords: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000690/versions/draft/assets/
 name: Allen Institute Openscope - Vision2Hippocampus project
+protocol: []
 publishedBy:
-  endDate: '2024-01-02T11:07:43.841450+00:00'
-  id: urn:uuid:fb741bbb-a091-4d20-93fe-e43c29e50028
+  endDate: '2024-02-02T10:15:05.055430+00:00'
+  id: urn:uuid:e3a2ca02-1836-48ca-ad50-ce81f9701cc6
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2024-01-02T11:07:43.841450+00:00'
+  startDate: '2024-02-02T10:15:05.055430+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:f77c57c5-4bf4-4f35-839c-ce85e7fff6de
+  - id: urn:uuid:427686c4-1e2a-4487-a900-973c96bb203f
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
     version: 0.1.0
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000690/draft
 version: draft
+wasGeneratedBy: []
