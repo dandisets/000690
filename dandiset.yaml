@@ -23,9 +23,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 85054960456
-  numberOfFiles: 45
-  numberOfSubjects: 9
+  numberOfBytes: 239825231077
+  numberOfFiles: 131
+  numberOfSubjects: 25
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -37,7 +37,7 @@ assetsSummary:
   - ProcessingModule
   - Units
 citation: Allen Institute Openscope - Vision2Hippocampus project (2024). (Version
-  draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000690/draft
 contributor:
 - awardNumber: 1 U24 NS 113646-03
   name: National Institutes of Health (NIH)
@@ -45,9 +45,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2023-10-24T16:52:41.591223+00:00'
-datePublished: '2024-02-02T10:15:05.055430+00:00'
 description: Vision2Hippocampus
-doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000690/draft
 identifier: DANDI:000690
@@ -58,18 +56,6 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000690/versions/draft/assets/
 name: Allen Institute Openscope - Vision2Hippocampus project
 protocol: []
-publishedBy:
-  endDate: '2024-02-02T10:15:05.055430+00:00'
-  id: urn:uuid:e3a2ca02-1836-48ca-ad50-ce81f9701cc6
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2024-02-02T10:15:05.055430+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:427686c4-1e2a-4487-a900-973c96bb203f
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
