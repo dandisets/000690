@@ -7,6 +7,8 @@ about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:EmbargoedAccess
+acknowledgement: We thank the Allen Institute founder, Paul G. Allen, for his vision,
+  encouragement, and support.
 assetsSummary:
   approach:
   - name: electrophysiological approach
@@ -46,7 +48,35 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2023-10-24T16:52:41.591223+00:00'
-description: Vision2Hippocampus
+description: "Extensive research shows that visual cortical neurons respond to specific
+  stimuli, e.g. the primary visual cortical neurons respond to bars of light with
+  specific orientation. In contrast, the hippocampal neurons are thought to encode
+  not specific stimuli but instead represent abstract concepts such as space, time
+  and events. How is this abstraction computed in the mouse brain? Specifically, how
+  does the representation of simple visual stimuli evolve from the thalamus, which
+  is a synapse away from the retina, through primary visual cortex, higher order visual
+  areas and all the way to hippocampus, that is farthest removed from the retina?\n
+  \nThe current OpenScope project aims to understand how the neural representations
+  of simple and natural stimuli evolve from the LGN through V1, and most hippocampal
+  regions, as well as some of the frontal areas. \n\nStimuli presented\nTwo main categories
+  of visual stimuli were presented–\n1.\tSimple visual motion, elicited by basic stimuli,
+  like bars of light.\n2.\tComplex, potentially ethologically valid visual stimuli,
+  elicited by movies involving eagles (and squirrels).\nTo parametrize the stimulus
+  properties which might be affecting neural responses, mice were shown variants of
+  the vertical bar of light as follows:\nA(o) – The bar of light was white, moving
+  on a black background, 15 degrees wide, and moved at a fixed speed, covered the
+  entire width of the screen in 2 seconds. It covered both movement directions consecutively
+  (naso-temporal, then temporo-nasal).\nA(i) – Similar to A(o), but the bar was now
+  thrice as wide (45o)\nA(ii) – Similar to A(o), but the bar was thrice as slow (covering
+  the width of the screen in 6 seconds).\nA(iii) – Similar to A(o), but the contrast
+  was flipped, i.e. a black bar of light on a white background.\nA(iv) - Similar to
+  A(o), but instead of a simple white bar, the stimulus was striped, and each stripe
+  changed color as the stimulus moved through the width of the screen. This was called
+  “disco” bar of light\nA(v) – In a subset of mice, A(o) was appended by frames corresponding
+  to the bar of light “vanishing” at either of the edges. Two vanishing protocols
+  were attempted, the bar of light is fully absorbed by the boundary, before reemerging.
+  Another protocol had the bar of light vanish for ~1 second in addition to smoothly
+  being absorbed by the boundary, before reemerging."
 ethicsApproval:
 - contactPoint:
     schemaKey: ContactPoint
