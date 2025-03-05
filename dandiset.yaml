@@ -37,8 +37,8 @@ assetsSummary:
   - LFP
   - ProcessingModule
   - Units
-citation: Allen Institute Openscope - Vision2Hippocampus project (2024). (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000690/draft
+citation: Allen Institute Openscope - Vision2Hippocampus project (2025). (Version
+  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000690/draft
 contributor:
 - awardNumber: 1 U24 NS 113646-03
   name: National Institutes of Health (NIH)
@@ -47,10 +47,25 @@ contributor:
   schemaKey: Organization
 dateCreated: '2023-10-24T16:52:41.591223+00:00'
 description: Vision2Hippocampus
-ethicsApproval: []
+ethicsApproval:
+- contactPoint:
+    schemaKey: ContactPoint
+  identifier: ​Allen Institute Institutional Animal Care and Use Committee (IACUC),
+    protocol 2117
+  schemaKey: EthicsApproval
 id: DANDI:000690/draft
 identifier: DANDI:000690
-keywords: []
+keywords:
+- mouse
+- neuropixel
+- extracellular electrophysiology
+- neocortex
+- hippocampus
+- 'Entorhinal cortex '
+- excitatory
+- inhibitory
+- vision
+- movies
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
