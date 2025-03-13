@@ -39,14 +39,166 @@ assetsSummary:
   - LFP
   - ProcessingModule
   - Units
-citation: Allen Institute Openscope - Vision2Hippocampus project (2025). (Version
-  draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000690/draft
+citation: Mehta, Mayank R; Purandare, Chinmay; Jha, Siddharth; Lecoq, Jérôme; Durand,
+  Séverine; Gillis, Ryan; Belski, Hannah; Bawany, Ahad; Carlson, Mikayla; Peene, Carter;
+  Wilkes, Josh; Johnson, Tye; Naidoo, Robyn; Suarez, Lucas; Han, Warren; Amaya, Avalon;
+  Nguyen, Katrina; Ouellette, Ben; Swapp, Jackie; Williford, Ali (2025) Allen Institute
+  Openscope - Vision2Hippocampus project (Version draft) [Data set]. DANDI Archive.
+  https://dandiarchive.org/dandiset/000690/draft
 contributor:
 - awardNumber: 1 U24 NS 113646-03
   name: National Institutes of Health (NIH)
   roleName:
   - dcite:Funder
   schemaKey: Organization
+- identifier: https://ror.org/03cpe7c52
+  includeInCitation: false
+  name: Allen Institute
+  schemaKey: Organization
+- email: mayankmehta@ucla.edu
+  identifier: 0000-0003-2005-2468
+  includeInCitation: true
+  name: Mehta, Mayank R
+  roleName:
+  - dcite:Conceptualization
+  - dcite:ContactPerson
+  - dcite:FormalAnalysis
+  - dcite:Investigation
+  - dcite:ProjectManager
+  - dcite:ProjectLeader
+  - dcite:Researcher
+  schemaKey: Person
+- email: chinmay.purandare@gmail.com
+  identifier: 0000-0001-9225-0186
+  includeInCitation: true
+  name: Purandare, Chinmay
+  roleName:
+  - dcite:Conceptualization
+  - dcite:FormalAnalysis
+  - dcite:Investigation
+  - dcite:ProjectMember
+  - dcite:ContactPerson
+  schemaKey: Person
+- includeInCitation: true
+  name: Jha, Siddharth
+  roleName:
+  - dcite:FormalAnalysis
+  - dcite:Investigation
+  - dcite:Researcher
+  schemaKey: Person
+- email: jeromel@alleninstitute.org
+  identifier: 0000-0002-0131-0938
+  includeInCitation: true
+  name: Lecoq, Jérôme
+  roleName:
+  - dcite:ContactPerson
+  - dcite:FundingAcquisition
+  - dcite:ProjectLeader
+  - dcite:ProjectManager
+  - dcite:ProjectAdministration
+  - dcite:Software
+  - dcite:Supervision
+  schemaKey: Person
+- identifier: 0000-0001-7788-0200
+  includeInCitation: true
+  name: Durand, Séverine
+  roleName:
+  - dcite:DataManager
+  - dcite:FormalAnalysis
+  - dcite:Supervision
+  - dcite:DataCurator
+  schemaKey: Person
+- identifier: 0009-0000-1879-6519
+  includeInCitation: true
+  name: Gillis, Ryan
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- identifier: 0009-0001-5422-5964
+  includeInCitation: true
+  name: Belski, Hannah
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- includeInCitation: true
+  name: Bawany, Ahad
+  roleName:
+  - dcite:DataCurator
+  - dcite:DataManager
+  schemaKey: Person
+- identifier: 0009-0003-7019-2781
+  includeInCitation: true
+  name: Carlson, Mikayla
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- identifier: 0009-0000-6660-2264
+  includeInCitation: true
+  name: Peene, Carter
+  roleName:
+  - dcite:DataCurator
+  - dcite:DataManager
+  schemaKey: Person
+- identifier: 0009-0005-4858-2219
+  includeInCitation: true
+  name: Wilkes, Josh
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- identifier: 0009-0006-7239-7571
+  includeInCitation: true
+  name: Johnson, Tye
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- identifier: 0009-0004-0996-8808
+  includeInCitation: true
+  name: Naidoo, Robyn
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- identifier: 0009-0002-0121-3334
+  includeInCitation: true
+  name: Suarez, Lucas
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- identifier: 0009-0006-0104-0380
+  includeInCitation: true
+  name: Han, Warren
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- identifier: 0000-0003-2274-2892
+  includeInCitation: true
+  name: Amaya, Avalon
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- identifier: 0009-0009-8547-9703
+  includeInCitation: true
+  name: Nguyen, Katrina
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- identifier: 0000-0003-4913-554X
+  includeInCitation: true
+  name: Ouellette, Ben
+  roleName:
+  - dcite:DataCollector
+  schemaKey: Person
+- identifier: 0009-0008-4965-6242
+  includeInCitation: true
+  name: Swapp, Jackie
+  roleName:
+  - dcite:Supervision
+  schemaKey: Person
+- identifier: 0009-0000-7282-7515
+  includeInCitation: true
+  name: Williford, Ali
+  roleName:
+  - dcite:Supervision
+  schemaKey: Person
 dateCreated: '2023-10-24T16:52:41.591223+00:00'
 description: "Extensive research shows that visual cortical neurons respond to specific
   stimuli, e.g. the primary visual cortical neurons respond to bars of light with
