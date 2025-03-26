@@ -200,6 +200,7 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 dateCreated: '2023-10-24T16:52:41.591223+00:00'
+datePublished: '2025-03-26T00:15:32.143954+00:00'
 description: "Extensive research shows that visual cortical neurons respond to specific
   stimuli, e.g. the primary visual cortical neurons respond to bars of light with
   specific orientation. In contrast, the hippocampal neurons are thought to encode
@@ -254,6 +255,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000690/versions/draft/assets/
 name: Allen Institute Openscope - Vision2Hippocampus project
 protocol: []
+publishedBy:
+  endDate: '2025-03-26T00:15:32.143954+00:00'
+  id: urn:uuid:fde40c71-b969-4678-a488-336520b8e5b0
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-03-26T00:15:32.143954+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:e7f91a82-d8e8-4101-a84c-afb7f518e567
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
