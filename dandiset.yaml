@@ -26,8 +26,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 597409404409
-  numberOfFiles: 155
+  numberOfBytes: 600242801107
+  numberOfFiles: 156
   numberOfSubjects: 25
   schemaKey: AssetsSummary
   species:
@@ -42,7 +42,7 @@ assetsSummary:
 citation: Mehta, Mayank R; Purandare, Chinmay; Jha, Siddharth; Lecoq, Jérôme; Durand,
   Séverine; Gillis, Ryan; Belski, Hannah; Bawany, Ahad; Carlson, Mikayla; Peene, Carter;
   Wilkes, Josh; Johnson, Tye; Naidoo, Robyn; Suarez, Lucas; Han, Warren; Amaya, Avalon;
-  Nguyen, Katrina; Ouellette, Ben; Swapp, Jackie; Williford, Ali (2025) Allen Institute
+  Nguyen, Katrina; Ouellette, Ben; Swapp, Jackie; Williford, Ali (2026) Allen Institute
   Openscope - Vision2Hippocampus project (Version draft) [Data set]. DANDI Archive.
   https://dandiarchive.org/dandiset/000690/draft
 contributor:
