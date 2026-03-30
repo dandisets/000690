@@ -43,8 +43,8 @@ citation: Mehta, Mayank R; Purandare, Chinmay; Jha, Siddharth; Lecoq, Jérôme; 
   Séverine; Gillis, Ryan; Belski, Hannah; Bawany, Ahad; Carlson, Mikayla; Peene, Carter;
   Wilkes, Josh; Johnson, Tye; Naidoo, Robyn; Suarez, Lucas; Han, Warren; Amaya, Avalon;
   Nguyen, Katrina; Ouellette, Ben; Swapp, Jackie; Williford, Ali (2026) Allen Institute
-  Openscope - Vision2Hippocampus project (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/000690/draft
+  Openscope - Vision2Hippocampus project (Version 0.260330.2144) [Data set]. DANDI
+  Archive. https://doi.org/10.48324/dandi.000690/0.260330.2144
 contributor:
 - awardNumber: 1 U24 NS 113646-03
   name: National Institutes of Health (NIH)
@@ -200,7 +200,7 @@ contributor:
   - dcite:Supervision
   schemaKey: Person
 dateCreated: '2023-10-24T16:52:41.591223+00:00'
-datePublished: '2025-03-26T00:15:32.143954+00:00'
+datePublished: '2026-03-30T21:44:09.594817+00:00'
 description: "Extensive research shows that visual cortical neurons respond to specific
   stimuli, e.g. the primary visual cortical neurons respond to bars of light with
   specific orientation. In contrast, the hippocampal neurons are thought to encode
@@ -230,13 +230,14 @@ description: "Extensive research shows that visual cortical neurons respond to s
   were attempted, the bar of light is fully absorbed by the boundary, before reemerging.
   Another protocol had the bar of light vanish for ~1 second in addition to smoothly
   being absorbed by the boundary, before reemerging."
+doi: 10.48324/dandi.000690/0.260330.2144
 ethicsApproval:
 - contactPoint:
     schemaKey: ContactPoint
   identifier: ​Allen Institute Institutional Animal Care and Use Committee (IACUC),
     protocol 2117
   schemaKey: EthicsApproval
-id: DANDI:000690/draft
+id: DANDI:000690/0.260330.2144
 identifier: DANDI:000690
 keywords:
 - mouse
@@ -252,17 +253,17 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000690/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000690/0.260330.2144/assets.yaml
 name: Allen Institute Openscope - Vision2Hippocampus project
 protocol: []
 publishedBy:
-  endDate: '2025-03-26T00:15:32.143954+00:00'
-  id: urn:uuid:fde40c71-b969-4678-a488-336520b8e5b0
+  endDate: '2026-03-30T21:44:09.594817+00:00'
+  id: urn:uuid:d8e8afb7-d29e-4e7a-9dd1-20b51ae8d8d3
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2025-03-26T00:15:32.143954+00:00'
+  startDate: '2026-03-30T21:44:09.594817+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:e7f91a82-d8e8-4101-a84c-afb7f518e567
+  - id: urn:uuid:e1f91b0b-bc42-41e0-b35e-53aad9bfbdf3
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
@@ -272,6 +273,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000690/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000690/0.260330.2144
+version: 0.260330.2144
 wasGeneratedBy: []
